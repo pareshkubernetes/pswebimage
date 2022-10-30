@@ -9,5 +9,3 @@ Referenced in:
 - Getting Started with Docker video course (pluralsight.com)
 
 **The app is maintained approximately once per year so may contain vulnerbilities.**
-
-PARESH PATEL
